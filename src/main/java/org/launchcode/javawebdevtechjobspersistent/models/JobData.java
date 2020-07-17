@@ -3,6 +3,7 @@ package org.launchcode.javawebdevtechjobspersistent.models;
 import java.util.ArrayList;
 
 // This is a change made in sandbox.
+// I don't think we'll be using this in A4
 
 /**
  * Created by LaunchCode
